@@ -1,3 +1,3 @@
 # FirestoreCombine
 
-A description of this package.
+Cloud Firestore with Combine
